@@ -1,2 +1,2 @@
 # R
-*Main repository for my R projects
+* Main repository for my R projects
